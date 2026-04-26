@@ -22,3 +22,5 @@ Are you cooking or are you getting cooked?
               |---+---+---+---+---+---+---+---+---+---+---+---+---+---+---|
    Actinide   |Ac |Th |Pa | U |Np |Pu |Am |Cm |Bk |Cf |Es |Fm |Md |No |Lw |
               -------------------------------------------------------------
+
+physics huh? or is this Chemistry?
