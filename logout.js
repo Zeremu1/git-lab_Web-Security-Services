@@ -1,7 +1,7 @@
 // Instead of this:
 history.push('/login');
 
-// Use this:
+// Use this one:
 window.location.replace('/login');
 // or
 router.replace('/login');
